@@ -1,0 +1,956 @@
+<?xml version="1.0"?>
+<root ptr="0x7ff6a004e980" id="389" symbol="11SwRootFrame" lower="390">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55b3f2b7bd70" id="4"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="75" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="85326" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18669" height="85326"/>
+ </infos>
+ <page ptr="0x55b3f33621f0" id="390" symbol="11SwPageFrame" next="394" upper="389" lower="391">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9072" height="14004"/>
+  </infos>
+  <body ptr="0x55b3f291fb60" id="391" symbol="11SwBodyFrame" upper="390" lower="472">
+   <infos>
+    <bounds left="8464" top="1701" width="9072" height="14004" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9072" height="14004"/>
+   </infos>
+   <txt ptr="0x55b3f422b0d0" id="472" symbol="11SwTextFrame" next="473" upper="391" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="1701" width="9072" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4ca4c50" id="473" symbol="11SwTextFrame" next="474" prev="472" upper="391" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="1957" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4d218a0" id="474" symbol="11SwTextFrame" next="475" prev="473" upper="391" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="2393" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4bd5a00" id="475" symbol="11SwTextFrame" next="476" prev="474" upper="391" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="2829" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f50d6720" id="476" symbol="11SwTextFrame" next="477" prev="475" upper="391" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="3265" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f31af2d0" id="477" symbol="11SwTextFrame" next="478" prev="476" upper="391" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="3701" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4e60230" id="478" symbol="11SwTextFrame" next="479" prev="477" upper="391" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="4137" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f33c2f40" id="479" symbol="11SwTextFrame" next="480" prev="478" upper="391" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="4573" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f3a6b200" id="480" symbol="11SwTextFrame" next="481" prev="479" upper="391" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="5009" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f49d9c60" id="481" symbol="11SwTextFrame" next="482" prev="480" upper="391" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="5445" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f32da440" id="482" symbol="11SwTextFrame" next="483" prev="481" upper="391" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="5881" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f53b0f40" id="483" symbol="11SwTextFrame" next="484" prev="482" upper="391" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="6317" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f2dd2680" id="484" symbol="11SwTextFrame" next="485" prev="483" upper="391" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="6753" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f49e0ca0" id="485" symbol="11SwTextFrame" next="486" prev="484" upper="391" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="7189" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f32d7c00" id="486" symbol="11SwTextFrame" next="487" prev="485" upper="391" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="7625" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f30a6000" id="487" symbol="11SwTextFrame" next="488" prev="486" upper="391" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="8061" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4ce5a10" id="488" symbol="11SwTextFrame" next="489" prev="487" upper="391" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="8497" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4db19a0" id="489" symbol="11SwTextFrame" next="490" prev="488" upper="391" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="8933" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f3189190" id="490" symbol="11SwTextFrame" next="491" prev="489" upper="391" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="9369" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4fafdd0" id="491" symbol="11SwTextFrame" next="492" prev="490" upper="391" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="9805" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f44a0710" id="492" symbol="11SwTextFrame" next="493" prev="491" upper="391" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="10241" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f50b8760" id="493" symbol="11SwTextFrame" next="494" prev="492" upper="391" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="10677" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4f375b0" id="494" symbol="11SwTextFrame" next="498" prev="493" upper="391" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="11113" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f50f2da0" id="498" symbol="11SwTextFrame" next="499" prev="494" upper="391" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="11549" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4bece10" id="499" symbol="11SwTextFrame" next="500" prev="498" upper="391" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="11985" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f50b1970" id="500" symbol="11SwTextFrame" next="501" prev="499" upper="391" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="12421" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f37193d0" id="501" symbol="11SwTextFrame" next="502" prev="500" upper="391" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="12857" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4a64f70" id="502" symbol="11SwTextFrame" next="503" prev="501" upper="391" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="13293" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f508f660" id="503" symbol="11SwTextFrame" next="504" prev="502" upper="391" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="13729" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f2848780" id="504" symbol="11SwTextFrame" next="505" prev="503" upper="391" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="14165" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f3016f00" id="505" symbol="11SwTextFrame" next="506" prev="504" upper="391" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="14601" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4ca4ef0" id="506" symbol="11SwTextFrame" prev="505" upper="391" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="15037" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55b3f2891020" id="394" symbol="11SwPageFrame" next="422" prev="390" upper="389" lower="395">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9072" height="14004"/>
+  </infos>
+  <body ptr="0x55b3f4225980" id="395" symbol="11SwBodyFrame" upper="394" lower="470">
+   <infos>
+    <bounds left="8464" top="18823" width="9072" height="14004" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9072" height="14004"/>
+   </infos>
+   <txt ptr="0x55b3f4c428f0" id="470" symbol="11SwTextFrame" next="397" upper="395" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="18823" width="9072" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="253"/>
+    </infos>
+*PLAN :    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="708" Portion="*"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="253" nWidth="691" Portion="PLAN :"/>
+    <LineBreak nWidth="1399" Line="*PLAN :"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f35a4b00" id="397" symbol="11SwTextFrame" next="398" prev="470" upper="395" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="19076" width="9072" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f3427ee0" id="398" symbol="11SwTextFrame" next="399" prev="397" upper="395" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="19509" width="9072" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="253"/>
+    </infos>
+I. INTRODUCTION    <Text nLength="15" nType="PortionType::Para" nHeight="253" nWidth="1845" Portion="I. INTRODUCTION"/>
+    <LineBreak nWidth="1845" Line="I. INTRODUCTION"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f343cdd0" id="399" symbol="11SwTextFrame" next="400" prev="398" upper="395" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="19942" width="9072" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="253"/>
+    </infos>
+II. DOMAINES D’APPLICATION DE LA DATA SCIENCE À Afriland    <Text nLength="56" nType="PortionType::Para" nHeight="253" nWidth="6495" Portion="II. DOMAINES D&#x2019;APPLICATION DE LA DATA SCIENCE &#xC0; Afriland"/>
+    <LineBreak nWidth="6495" Line="II. DOMAINES D&#x2019;APPLICATION DE LA DATA SCIENCE &#xC0; Afriland"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f2a482e0" id="400" symbol="11SwTextFrame" next="401" prev="399" upper="395" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="20375" width="9072" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f2a339f0" id="401" symbol="11SwTextFrame" next="402" prev="400" upper="395" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="20808" width="9072" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="180" width="8712" height="253"/>
+    </infos>
+FRAUDE    <Special nLength="0" nType="PortionType::Number" rText="a" nHeight="220">
+     <SwFont ptr="0x55b3f3a040d0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="262"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="253" nWidth="880" Portion="FRAUDE"/>
+    <LineBreak nWidth="1240" Line="aFRAUDE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3efdb3c30" id="402" symbol="11SwTextFrame" next="403" prev="401" upper="395" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="21241" width="9072" height="666" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="413" width="8712" height="253"/>
+    </infos>
+SEGMENTATION DE LA CLIENTÈLE    <Special nLength="0" nType="PortionType::Number" rText="b" nHeight="220">
+     <SwFont ptr="0x55b3f396f420" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="250"/>
+    <Text nLength="28" nType="PortionType::Text" nHeight="253" nWidth="3659" Portion="SEGMENTATION DE LA CLIENT&#xC8;LE"/>
+    <LineBreak nWidth="4019" Line="bSEGMENTATION DE LA CLIENT&#xC8;LE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f3427030" id="403" symbol="11SwTextFrame" next="404" prev="402" upper="395" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="21907" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="253" width="8712" height="253"/>
+    </infos>
+MARKETING CIBLÉ    <Special nLength="0" nType="PortionType::Number" rText="c" nHeight="220">
+     <SwFont ptr="0x55b3f3958830" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="262"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="253" nWidth="2010" Portion="MARKETING CIBL&#xC9;"/>
+    <LineBreak nWidth="2370" Line="cMARKETING CIBL&#xC9;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f0f77890" id="404" symbol="11SwTextFrame" next="405" prev="403" upper="395" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="22413" width="9072" height="666" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="413" width="8712" height="253"/>
+    </infos>
+GESTION DU RISQUE DE CRÉDIT    <Special nLength="0" nType="PortionType::Number" rText="d" nHeight="220">
+     <SwFont ptr="0x55b3f3f17d20" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="250"/>
+    <Text nLength="27" nType="PortionType::Text" nHeight="253" nWidth="3360" Portion="GESTION DU RISQUE DE CR&#xC9;DIT"/>
+    <LineBreak nWidth="3720" Line="dGESTION DU RISQUE DE CR&#xC9;DIT"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f33eacf0" id="405" symbol="11SwTextFrame" next="406" prev="404" upper="395" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="23079" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="253" width="8712" height="253"/>
+    </infos>
+PRÉVISION    <Special nLength="0" nType="PortionType::Number" rText="e" nHeight="220">
+     <SwFont ptr="0x55b3f412bd20" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="262"/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="253" nWidth="1149" Portion="PR&#xC9;VISION"/>
+    <LineBreak nWidth="1509" Line="ePR&#xC9;VISION"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f51b6c10" id="406" symbol="11SwTextFrame" next="407" prev="405" upper="395" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="23585" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="253"/>
+    </infos>
+III. CONCLUSION :    <Text nLength="6" nType="PortionType::Text" nHeight="253" nWidth="477" Portion="III. C"/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="253" nWidth="1271" Portion="ONCLUSION"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="116" Portion=" :"/>
+    <LineBreak nWidth="1864" Line="III. CONCLUSION :"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f44c3b20" id="407" symbol="11SwTextFrame" next="408" prev="406" upper="395" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="24091" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="249"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f52bd4b0" id="408" symbol="11SwTextFrame" next="409" prev="407" upper="395" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="24593" width="9072" height="505" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="249" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4bc26a0" id="409" symbol="11SwTextFrame" next="410" prev="408" upper="395" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="25098" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4425dc0" id="410" symbol="11SwTextFrame" next="411" prev="409" upper="395" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="25534" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f41c65b0" id="411" symbol="11SwTextFrame" next="412" prev="410" upper="395" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="25970" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f47f1970" id="412" symbol="11SwTextFrame" next="413" prev="411" upper="395" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="26406" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f293f5d0" id="413" symbol="11SwTextFrame" next="414" prev="412" upper="395" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="26842" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f33ceea0" id="414" symbol="11SwTextFrame" next="415" prev="413" upper="395" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="27278" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4863bf0" id="415" symbol="11SwTextFrame" next="416" prev="414" upper="395" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="27714" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f42e5ba0" id="416" symbol="11SwTextFrame" next="417" prev="415" upper="395" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="28150" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f35d1290" id="417" symbol="11SwTextFrame" next="418" prev="416" upper="395" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="28586" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f44ef4a0" id="418" symbol="11SwTextFrame" next="419" prev="417" upper="395" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="29022" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f43d9a80" id="419" symbol="11SwTextFrame" next="420" prev="418" upper="395" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="29458" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f42232a0" id="420" symbol="11SwTextFrame" next="461" prev="419" upper="395" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="29894" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4536"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="256"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4537"/>
+    <LineBreak nWidth="9073"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f5353a30" id="461" symbol="11SwTextFrame" next="462" prev="420" upper="395" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="30330" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f42c1cb0" id="462" symbol="11SwTextFrame" next="463" prev="461" upper="395" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="30766" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f1c92d00" id="463" symbol="11SwTextFrame" next="464" prev="462" upper="395" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="31202" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f53e26a0" id="464" symbol="11SwTextFrame" next="465" prev="463" upper="395" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="31638" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f44192d0" id="465" symbol="11SwTextFrame" prev="464" upper="395" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="32074" width="9072" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55b3f38e8b00" id="422" symbol="11SwPageFrame" next="427" prev="394" upper="389" lower="423">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="34528" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9072" height="14004"/>
+  </infos>
+  <body ptr="0x7ff6a004dfa0" id="423" symbol="11SwBodyFrame" upper="422" lower="421">
+   <infos>
+    <bounds left="8464" top="35945" width="9072" height="14004" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9072" height="14004"/>
+   </infos>
+   <txt ptr="0x55b3f45f66d0" id="421" symbol="11SwTextFrame" next="424" upper="423" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="35945" width="9072" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="256"/>
+    </infos>
+                      **I. INTRODUCTION    <Text nLength="22" nType="PortionType::Text" nHeight="256" nWidth="1540" Portion="                      "/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="256" nWidth="584" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="256" nWidth="708" Portion="*"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="256" nWidth="1915" Portion="I. INTRODUCTION"/>
+    <LineBreak nWidth="4747" Line="                      **I. INTRODUCTION"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f42a6f60" id="424" symbol="11SwTextFrame" next="425" prev="421" upper="423" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="36201" width="9072" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9072" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f1704dd0" id="425" symbol="11SwTextFrame" next="515" prev="424" upper="423" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="36634" width="9072" height="3032" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="126" width="9072" height="2906"/>
+    </infos>
+*À l’ère du big data l’explosion du volume des données, leur vitesse et leur variabilité, la capacité à transformer une donnée brute en information utile à la résolution de problèmes complexes devient une expertise en particulier pour les banques 80% de la donnée est structurée et non  structurée. Le rôle de la data science est donc de trouver des moyens d’utiliser cette donnée au mieux pour soutenir  les activités de la banque, en s’appuyant sur des outils mathématiques, statistiques, informatiques et d’optimisation. Notre rôle ici consistera à vous présenter à vous directeur de AFRILAND FIRST BANK , en quoi créer un département Data Science dans votre Banque vous sera bénéfique.    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="708" Portion="*"/>
+    <Text nLength="92" nType="PortionType::Text" nHeight="253" nWidth="7797" Portion="&#xC0; l&#x2019;&#xE8;re du big data l&#x2019;explosion du volume des donn&#xE9;es, leur vitesse et leur variabilit&#xE9;, la "/>
+    <LineBreak nWidth="8505" Line="*&#xC0; l&#x2019;&#xE8;re du big data l&#x2019;explosion du volume des donn&#xE9;es, leur vitesse et leur variabilit&#xE9;, la "/>
+    <Text nLength="100" nType="PortionType::Lay" nHeight="253" nWidth="8915" Portion="capacit&#xE9; &#xE0; transformer une donn&#xE9;e brute en information utile &#xE0; la r&#xE9;solution de probl&#xE8;mes complexes "/>
+    <LineBreak nWidth="8915" Line="capacit&#xE9; &#xE0; transformer une donn&#xE9;e brute en information utile &#xE0; la r&#xE9;solution de probl&#xE8;mes complexes "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="253" nWidth="8182" Portion="devient une expertise en particulier pour les banques 80% de la donn&#xE9;e est structur&#xE9;e et non  "/>
+    <LineBreak nWidth="8182" Line="devient une expertise en particulier pour les banques 80% de la donn&#xE9;e est structur&#xE9;e et non  "/>
+    <Text nLength="103" nType="PortionType::Lay" nHeight="253" nWidth="8964" Portion="structur&#xE9;e. Le r&#xF4;le de la data science est donc de trouver des moyens d&#x2019;utiliser cette donn&#xE9;e au mieux "/>
+    <LineBreak nWidth="8964" Line="structur&#xE9;e. Le r&#xF4;le de la data science est donc de trouver des moyens d&#x2019;utiliser cette donn&#xE9;e au mieux "/>
+    <Text nLength="101" nType="PortionType::Lay" nHeight="253" nWidth="8617" Portion="pour soutenir  les activit&#xE9;s de la banque, en s&#x2019;appuyant sur des outils math&#xE9;matiques, statistiques, "/>
+    <LineBreak nWidth="8617" Line="pour soutenir  les activit&#xE9;s de la banque, en s&#x2019;appuyant sur des outils math&#xE9;matiques, statistiques, "/>
+    <Text nLength="95" nType="PortionType::Text" nHeight="253" nWidth="8201" Portion="informatiques et d&#x2019;optimisation. Notre r&#xF4;le ici consistera &#xE0; vous pr&#xE9;senter &#xE0; vous directeur de"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="253" nWidth="55" Portion=" "/>
+    <LineBreak nWidth="8256" Line="informatiques et d&#x2019;optimisation. Notre r&#xF4;le ici consistera &#xE0; vous pr&#xE9;senter &#xE0; vous directeur de "/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="253" nWidth="2554" Portion="AFRILAND FIRST BANK"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="253" nWidth="55" Portion=" "/>
+    <Text nLength="71" nType="PortionType::Text" nHeight="253" nWidth="6458" Portion=", en quoi cr&#xE9;er un d&#xE9;partement Data Science dans votre Banque vous sera"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9067" Line="AFRILAND FIRST BANK , en quoi cr&#xE9;er un d&#xE9;partement Data Science dans votre Banque vous sera "/>
+    <Text nLength="10" nType="PortionType::Lay" nHeight="253" nWidth="923" Portion="b&#xE9;n&#xE9;fique."/>
+    <LineBreak nWidth="923" Line="b&#xE9;n&#xE9;fique."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f44b4870" id="515" symbol="11SwTextFrame" next="516" prev="425" upper="423" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="39666" width="9072" height="379" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="126" width="9072" height="253"/>
+    </infos>
+                        II. DOMAINES D’APPLICATION DE LA DATA SCIENCE À Afriland    <Text nLength="24" nType="PortionType::Text" nHeight="253" nWidth="1320" Portion="                        "/>
+    <Text nLength="48" nType="PortionType::Text" nHeight="253" nWidth="5749" Portion="II. DOMAINES D&#x2019;APPLICATION DE LA DATA SCIENCE &#xC0; "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="253" nWidth="807" Portion="Afriland"/>
+    <LineBreak nWidth="7876" Line="                        II. DOMAINES D&#x2019;APPLICATION DE LA DATA SCIENCE &#xC0; Afriland"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f37d8340" id="516" symbol="11SwTextFrame" next="429" prev="515" upper="423" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="40045" width="9072" height="382" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="126" width="9072" height="256"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="256"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4404590" id="429" symbol="11SwTextFrame" next="430" prev="516" upper="423" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="40427" width="9072" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="128" width="8712" height="253"/>
+    </infos>
+CONFIANCE CLIENT :    <Special nLength="0" nType="PortionType::Number" rText="a" nHeight="220">
+     <SwFont ptr="0x55b3f4f36800" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="262"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="253" nWidth="2212" Portion="CONFIANCE CLIENT :"/>
+    <LineBreak nWidth="2572" Line="aCONFIANCE CLIENT :"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f48f5770" id="430" symbol="11SwTextFrame" next="431" prev="429" upper="423" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="40808" width="9072" height="1678" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="413" width="9072" height="1265"/>
+    </infos>
+*S’assurer de la confiance client en créant un modèle permettant de prédire la probabilité qu’un client va switcher vers une autre banque et faire une analyse des variables les plus importantes, ces variables étant le point focale du programme de fidélisation .    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="708" Portion="*"/>
+    <Text nLength="95" nType="PortionType::Text" nHeight="253" nWidth="8310" Portion="S&#x2019;assurer de la confiance client en cr&#xE9;ant un mod&#xE8;le permettant de pr&#xE9;dire la probabilit&#xE9; qu&#x2019;un"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9018" Line="*S&#x2019;assurer de la confiance client en cr&#xE9;ant un mod&#xE8;le permettant de pr&#xE9;dire la probabilit&#xE9; qu&#x2019;un "/>
+    <Text nLength="102" nType="PortionType::Lay" nHeight="253" nWidth="8750" Portion="client va switcher vers une autre banque et faire une analyse des variables les plus importantes, ces "/>
+    <LineBreak nWidth="8750" Line="client va switcher vers une autre banque et faire une analyse des variables les plus importantes, ces "/>
+    <Text nLength="62" nType="PortionType::Lay" nHeight="253" nWidth="5353" Portion="variables &#xE9;tant le point focale du programme de fid&#xE9;lisation ."/>
+    <LineBreak nWidth="5353" Line="variables &#xE9;tant le point focale du programme de fid&#xE9;lisation ."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4909240" id="431" symbol="11SwTextFrame" next="432" prev="430" upper="423" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="42486" width="9072" height="666" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="413" width="8712" height="253"/>
+    </infos>
+DÉTECTION DE FRAUDES    <Special nLength="0" nType="PortionType::Number" rText="b" nHeight="220">
+     <SwFont ptr="0x55b3f4db7800" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="250"/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="253" nWidth="2639" Portion="D&#xC9;TECTION DE FRAUDES"/>
+    <LineBreak nWidth="2999" Line="bD&#xC9;TECTION DE FRAUDES"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f531aaa0" id="432" symbol="11SwTextFrame" next="433" prev="431" upper="423" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="43152" width="9072" height="3196" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="413" width="9072" height="2783"/>
+    </infos>
+*L'apprentissage automatique est crucial pour une détection et une prévention efficace des fraudes impliquant les cartes de crédit, la comptabilité, les assurances, etc. La détection proactive de la fraude dans la banque est essentielle pour assurer la sécurité des clients et des employés. Plus tôt la banque détecte une fraude, plus vite elle peut restreindre l'activité du compte pour minimiser les pertes. En mettant en œuvre une série de systèmes de détection des fraudes, les banques peuvent obtenir la protection nécessaire et éviter des pertes importantes.     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="708" Portion="*"/>
+    <Text nLength="90" nType="PortionType::Text" nHeight="253" nWidth="7897" Portion="L'apprentissage automatique est crucial pour une d&#xE9;tection et une pr&#xE9;vention efficace des "/>
+    <LineBreak nWidth="8605" Line="*L'apprentissage automatique est crucial pour une d&#xE9;tection et une pr&#xE9;vention efficace des "/>
+    <Text nLength="107" nType="PortionType::Text" nHeight="253" nWidth="9037" Portion="fraudes impliquant les cartes de cr&#xE9;dit, la comptabilit&#xE9;, les assurances, etc. La d&#xE9;tection proactive de la"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9037" Line="fraudes impliquant les cartes de cr&#xE9;dit, la comptabilit&#xE9;, les assurances, etc. La d&#xE9;tection proactive de la "/>
+    <Text nLength="104" nType="PortionType::Lay" nHeight="253" nWidth="8769" Portion="fraude dans la banque est essentielle pour assurer la s&#xE9;curit&#xE9; des clients et des employ&#xE9;s. Plus t&#xF4;t la "/>
+    <LineBreak nWidth="8769" Line="fraude dans la banque est essentielle pour assurer la s&#xE9;curit&#xE9; des clients et des employ&#xE9;s. Plus t&#xF4;t la "/>
+    <Text nLength="99" nType="PortionType::Lay" nHeight="253" nWidth="8509" Portion="banque d&#xE9;tecte une fraude, plus vite elle peut restreindre l'activit&#xE9; du compte pour minimiser les "/>
+    <LineBreak nWidth="8509" Line="banque d&#xE9;tecte une fraude, plus vite elle peut restreindre l'activit&#xE9; du compte pour minimiser les "/>
+    <Text nLength="96" nType="PortionType::Lay" nHeight="253" nWidth="8530" Portion="pertes. En mettant en &#x153;uvre une s&#xE9;rie de syst&#xE8;mes de d&#xE9;tection des fraudes, les banques peuvent "/>
+    <LineBreak nWidth="8530" Line="pertes. En mettant en &#x153;uvre une s&#xE9;rie de syst&#xE8;mes de d&#xE9;tection des fraudes, les banques peuvent "/>
+    <Text nLength="66" nType="PortionType::Text" nHeight="253" nWidth="5591" Portion="obtenir la protection n&#xE9;cessaire et &#xE9;viter des pertes importantes."/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="256" nWidth="70" Portion=" "/>
+    <LineBreak nWidth="5661" Line="obtenir la protection n&#xE9;cessaire et &#xE9;viter des pertes importantes. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f5304900" id="433" symbol="11SwTextFrame" next="434" prev="432" upper="423" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="46348" width="9072" height="670" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="417" width="8712" height="253"/>
+    </infos>
+SEGMENTATION DE LA CLIENTÈLE    <Special nLength="0" nType="PortionType::Number" rText="c" nHeight="220">
+     <SwFont ptr="0x55b3f3447f80" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="262"/>
+    <Text nLength="28" nType="PortionType::Text" nHeight="253" nWidth="3659" Portion="SEGMENTATION DE LA CLIENT&#xC8;LE"/>
+    <LineBreak nWidth="4019" Line="cSEGMENTATION DE LA CLIENT&#xC8;LE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f2871200" id="434" symbol="11SwTextFrame" prev="433" upper="423" txtNodeIndex="81" WritingMode="Horizontal" follow="513">
+    <infos>
+     <bounds left="8464" top="47018" width="9072" height="2530" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="2277"/>
+    </infos>
+*La segmentation de la clientèle consiste à distinguer les groupes de clients en fonction de leur comportement (pour la segmentation comportementale) ou de caractéristiques spécifiques (par exemple, région, âge, revenu pour la segmentation démographique). Il existe tout un tas de techniques dans telles que le regroupement etc et par conséquent, ils aident à apprendre la Valeur Vie Client de chaque segment de clientèle et à découvrir les segments à valeur élevée et à faible valeur.Donc la segmentation de la clientèle est conçue pour améliorer le service client et aider à la fidélisation et à la rétention des clients, ce qui est si nécessaire pour votre banque.    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="708" Portion="*"/>
+    <Text nLength="97" nType="PortionType::Text" nHeight="253" nWidth="8298" Portion="La segmentation de la client&#xE8;le consiste &#xE0; distinguer les groupes de clients en fonction de leur "/>
+    <LineBreak nWidth="9006" Line="*La segmentation de la client&#xE8;le consiste &#xE0; distinguer les groupes de clients en fonction de leur "/>
+    <Text nLength="92" nType="PortionType::Lay" nHeight="253" nWidth="8371" Portion="comportement (pour la segmentation comportementale) ou de caract&#xE9;ristiques sp&#xE9;cifiques (par "/>
+    <LineBreak nWidth="8371" Line="comportement (pour la segmentation comportementale) ou de caract&#xE9;ristiques sp&#xE9;cifiques (par "/>
+    <Text nLength="102" nType="PortionType::Lay" nHeight="253" nWidth="9037" Portion="exemple, r&#xE9;gion, &#xE2;ge, revenu pour la segmentation d&#xE9;mographique). Il existe tout un tas de techniques "/>
+    <LineBreak nWidth="9037" Line="exemple, r&#xE9;gion, &#xE2;ge, revenu pour la segmentation d&#xE9;mographique). Il existe tout un tas de techniques "/>
+    <Text nLength="81" nType="PortionType::Text" nHeight="253" nWidth="6959" Portion="dans telles que le regroupement etc et par cons&#xE9;quent, ils aident &#xE0; apprendre la "/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="253" nWidth="1026" Portion="Valeur Vie "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="253" nWidth="538" Portion="Client"/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="253" nWidth="318" Portion=" de "/>
+    <LineBreak nWidth="8841" Line="dans telles que le regroupement etc et par cons&#xE9;quent, ils aident &#xE0; apprendre la Valeur Vie Client de "/>
+    <Text nLength="99" nType="PortionType::Lay" nHeight="253" nWidth="8615" Portion="chaque segment de client&#xE8;le et &#xE0; d&#xE9;couvrir les segments &#xE0; valeur &#xE9;lev&#xE9;e et &#xE0; faible valeur.Donc la "/>
+    <LineBreak nWidth="8615" Line="chaque segment de client&#xE8;le et &#xE0; d&#xE9;couvrir les segments &#xE0; valeur &#xE9;lev&#xE9;e et &#xE0; faible valeur.Donc la "/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55b3f36cf4b0" id="427" symbol="11SwPageFrame" next="496" prev="422" upper="389" lower="428">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="51650" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9072" height="14004"/>
+  </infos>
+  <body ptr="0x55b3f0030070" id="428" symbol="11SwBodyFrame" upper="427" lower="513">
+   <infos>
+    <bounds left="8464" top="53067" width="9072" height="14004" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9072" height="14004"/>
+   </infos>
+   <txt ptr="0x55b3f2b89e70" id="513" symbol="11SwTextFrame" next="438" upper="428" txtNodeIndex="81" WritingMode="Horizontal" precede="434">
+    <infos>
+     <bounds left="8464" top="53067" width="9072" height="759" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="759"/>
+    </infos>
+*La segmentation de la clientèle consiste à distinguer les groupes de clients en fonction de leur comportement (pour la segmentation comportementale) ou de caractéristiques spécifiques (par exemple, région, âge, revenu pour la segmentation démographique). Il existe tout un tas de techniques dans telles que le regroupement etc et par conséquent, ils aident à apprendre la Valeur Vie Client de chaque segment de clientèle et à découvrir les segments à valeur élevée et à faible valeur.Donc la segmentation de la clientèle est conçue pour améliorer le service client et aider à la fidélisation et à la rétention des clients, ce qui est si nécessaire pour votre banque.    <Skip nLength="493"/>
+    <Text nLength="108" nType="PortionType::Para" nHeight="253" nWidth="8976" Portion="segmentation de la client&#xE8;le est con&#xE7;ue pour am&#xE9;liorer le service client et aider &#xE0; la fid&#xE9;lisation et &#xE0; la "/>
+    <LineBreak nWidth="8976" Line="segmentation de la client&#xE8;le est con&#xE7;ue pour am&#xE9;liorer le service client et aider &#xE0; la fid&#xE9;lisation et &#xE0; la "/>
+    <Text nLength="66" nType="PortionType::Lay" nHeight="253" nWidth="5573" Portion="r&#xE9;tention des clients, ce qui est si n&#xE9;cessaire pour votre banque."/>
+    <LineBreak nWidth="5573" Line="r&#xE9;tention des clients, ce qui est si n&#xE9;cessaire pour votre banque."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f1676be0" id="438" symbol="11SwTextFrame" next="439" prev="513" upper="428" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="53826" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="249"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3ecbb4230" id="439" symbol="11SwTextFrame" next="440" prev="438" upper="428" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="54328" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="249" width="9072" height="253"/>
+    </infos>
+*  c)   MARKETING CIBLÉ    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f47aedc0" id="440" symbol="11SwTextFrame" next="441" prev="439" upper="428" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="54830" width="9072" height="3542" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="3289"/>
+    </infos>
+*L'analyse des données nous permet de créer un marketing ciblé qui propose le bon produit aux bonne personnes au bon moment en interprétant les besoins des clients et en les transformants en outils fonctionnels . L'exploration de données est largement utilisée pour la sélection de cibles afin d'identifier les clients potentiels pour un nouveau produit. Le data scientist utilise les données d'achat comportementales, démographiques et historiques pour créer un modèle qui prédit la probabilité de réponse d'un client à une promotion ou à une offre, en mettant l’accent sur les plus du produit par rapport à la concurrence.     <Finish/>
+   </txt>
+   <txt ptr="0x55b3f282b740" id="441" symbol="11SwTextFrame" next="442" prev="440" upper="428" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="58372" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f340fd80" id="442" symbol="11SwTextFrame" next="443" prev="441" upper="428" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="58878" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="253"/>
+    </infos>
+* d) GESTION DU RISQUE DE CRÉDIT    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f340b570" id="443" symbol="11SwTextFrame" next="444" prev="442" upper="428" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="59384" width="9072" height="2530" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="2277"/>
+    </infos>
+*Les cartes de crédit sont l'alpha et l'oméga des prêts hypothécaires et des prêts. Les banques dépendent de la compréhension des scores de risque et du comportement financier des clients ou entreprises. Les scientifiques des données utilisent des données existantes, telles que des détails sur les prêts et les défauts de paiement passés contenus dans le dossier de crédit pour évaluer le risque de non remboursement de la dette d'un client.    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f333dca0" id="444" symbol="11SwTextFrame" next="458" prev="443" upper="428" txtNodeIndex="88" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="61914" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="249"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4f8b760" id="458" symbol="11SwTextFrame" next="456" prev="444" upper="428" txtNodeIndex="89" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="62416" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="249" width="9072" height="253"/>
+    </infos>
+*e) PRÉVISION    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4462fe0" id="456" symbol="11SwTextFrame" next="469" prev="458" upper="428" txtNodeIndex="90" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="62918" width="9072" height="3036" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="2783"/>
+    </infos>
+*L'analyse prédictive et la prévision occupent depuis longtemps un espace dédié dans le secteur bancaire. Cependant, avec l'avènement du Machine Learning et de l'Intelligence Artificielle, la portée des choses qui peuvent être prévues s'est considérablement élargie. La précision des modèles est améliorée et le niveau d'intervention humaine requis diminue lentement. La plupart des applications essentiellement concernées sont par exemple : les prévisions de revenus ou les prévisions de cours boursiers, les prévisions sur la nécessité des recrutements futurs.     <Finish/>
+   </txt>
+   <txt ptr="0x55b3f2aa9ea0" id="469" symbol="11SwTextFrame" next="450" prev="456" upper="428" txtNodeIndex="91" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="65954" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="249"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f1ca2be0" id="450" symbol="11SwTextFrame" prev="469" upper="428" txtNodeIndex="92" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="66456" width="9072" height="502" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="249" width="9072" height="253"/>
+    </infos>
+III. CONCLUSION :    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55b3f31666e0" id="496" symbol="11SwPageFrame" prev="427" upper="389" lower="497">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="68772" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1417" top="1417" width="9072" height="14004"/>
+  </infos>
+  <body ptr="0x55b3f2dac2c0" id="497" symbol="11SwBodyFrame" upper="496" lower="468">
+   <infos>
+    <bounds left="8464" top="70189" width="9072" height="14004" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9072" height="14004"/>
+   </infos>
+   <txt ptr="0x55b3f29f1be0" id="468" symbol="11SwTextFrame" next="467" upper="497" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="70189" width="9072" height="1771" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="1771"/>
+    </infos>
+*Avec l’avènement du big data, la concurrence s’est de plus en plus accrue entre les acteurs du secteur bancaire et le rôle des data scientists sera donc de permettre aux banques de se différencier les unes des autres en développant des solutions de plus en plus innovantes. Il incombe donc pour vous Monsieur de créer dans votre banque un département de data science     <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4ca4980" id="467" symbol="11SwTextFrame" next="452" prev="468" upper="497" txtNodeIndex="94" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="71960" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55b3f4baa2a0" id="452" symbol="11SwTextFrame" prev="467" upper="497" txtNodeIndex="95" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8464" top="72466" width="9072" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="253" width="9072" height="253"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
